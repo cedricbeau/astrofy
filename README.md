@@ -42,10 +42,10 @@ npm run dev
 │   ├── layouts/
 │   │   └── BaseLayout.astro
 │   └── pages/
+│   │   └── 404.astro
 │   │   └── cv.astro
 │   │   └── index.astro
 │   │   └── projects.astro
-│   │   └── rss.xml.js
 │   ├── styles/
 │   │   └── global.css
 │   └── config.ts
