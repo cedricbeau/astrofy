@@ -166,5 +166,3 @@ The configuration for the deployment varies depending on the platform where you 
 ## License
 
 Astrofy is licensed under the MIT license — see the [LICENSE](https://github.com/manuelernestog/astrofy/blob/main/LICENSE) file for details.
-
-Made with [contrib.rocks](https://contrib.rocks).
